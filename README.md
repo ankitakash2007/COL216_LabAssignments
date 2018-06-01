@@ -1,5 +1,5 @@
 # COL216_LabAssignments
-## Lab assignmets from COL216: Computer Architecture
+      Lab assignmets from COL216: Computer Architecture
 
 
 1. **Lab1: Sorting** 
@@ -14,8 +14,8 @@
     * Description: Creating a two player [Reversi game](https://en.wikipedia.org/wiki/Reversi) using "Embest-Board Plugin" on ARMSim# simulator.
     * Language: ARM assembly and python
 
-
-**To design and implement a complete ARM CPU based computer.**
+#
+      To design and implement a complete ARM CPU based computer.
 
 4. **Lab4: multicycle datapath**
     * Description: Design, implement and integrate datapath building blocks- ALU, Shifter, Multiplier, Register File, Processor-Memory Path and other necessary blocks.
